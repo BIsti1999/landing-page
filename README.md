@@ -1,1 +1,1 @@
-# landing-page
+This project is for building a landing page while exercising flexbox skills. 
